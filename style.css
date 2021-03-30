@@ -55,3 +55,9 @@
     top: 70%;
     left: 42%;
 }
+.centre{
+     background: black;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
